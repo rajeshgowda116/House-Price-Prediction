@@ -4,6 +4,10 @@ This project is a machine learning app for predicting California house prices fr
 
 The trained model is served through a Streamlit interface in `strem.py`.
 
+## Live App
+
+Try the deployed app here: [House Price Prediction](https://house-price-prediction-vugsvwe6fwrswduv3gqvjj.streamlit.app/)
+
 ## Project Files
 
 - `strem.py` - Streamlit web app for entering house details and getting predictions.
